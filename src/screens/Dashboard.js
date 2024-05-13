@@ -19,8 +19,6 @@ export default function Dashboard() {
 
     alert(id)
 
-    console.log(id);//12345
-
 
     if (authToken) {
      
